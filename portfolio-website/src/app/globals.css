@@ -19,11 +19,11 @@
 
 body {
   color: black;
-  background: white;
+  background: #4A4A4A;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 button{
-  color: #ededed;
-  background-color: aqua;
+  color: black;
+  background-color: white;
 }
