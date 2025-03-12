@@ -10,7 +10,7 @@ export default function Navbar() {
         <nav className="#4A4A4A p-4 relative">
             <div className="container mx-auto flex justify-between items-center">
                 <div className="absolute top-4 right-4 space-x-4">
-                    <Link href="/" className="`${pathname === '/' ? 'text-white' : text-gray-300 hover:text-white'}`}">
+                    <Link href="/" className="`${pathname === '/' ? 'text-white' : text-gray-300 hover:text-black'}`}">
                         Home
                     </Link>
                     <Link href="/aboutpage" className="`${pathname === '/aboutpage' ? 'text-white' : text-gray-300 hover:text-white'}`}">
